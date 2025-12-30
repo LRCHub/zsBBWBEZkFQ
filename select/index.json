@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MIRROR",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-30T14:35:12.237983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mirror Mirror",
+      "artist": "Diamond Rio",
+      "has_synced": false,
+      "path": "select/01_Mirror_Mirror_Diamond_Rio.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mirror Mirror",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/02_Mirror_Mirror_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mirror Mirror",
+      "artist": "Love and Theft",
+      "has_synced": true,
+      "path": "select/03_Mirror_Mirror_Love_and_Theft.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stranger In My Mirror",
+      "artist": "Randy Travis",
+      "has_synced": false,
+      "path": "select/04_Stranger_In_My_Mirror_Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Be Your Mirror",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/05_I'll_Be_Your_Mirror_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Be Your Mirror",
+      "artist": "The Velvet Underground & Nico",
+      "has_synced": true,
+      "path": "select/06_I'll_Be_Your_Mirror_The_Velvet_Underground_&_Nico.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burning the Mirror",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/07_Burning_the_Mirror_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mirror Mirror",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/08_Mirror_Mirror_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "IN THE MIRROR 거울",
+      "artist": "Yaeji",
+      "has_synced": true,
+      "path": "select/09_IN_THE_MIRROR_거울_Yaeji.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mirror",
+      "artist": "Lil Wayne feat. Bruno Mars",
+      "has_synced": true,
+      "path": "select/10_Mirror_Lil_Wayne_feat._Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mirror (Feat. Bruno Mars) (Bonus Track)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/11_Mirror_(Feat._Bruno_Mars)_(Bonus_Track)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mirror People",
+      "artist": "Love and Rockets",
+      "has_synced": true,
+      "path": "select/12_Mirror_People_Love_and_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mirror People (Slow Version)",
+      "artist": "Love and Rockets",
+      "has_synced": false,
+      "path": "select/13_Mirror_People_(Slow_Version)_Love_and_Rockets.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mirror, Mirror",
+      "artist": "Hector Vae feat. Lil Peep",
+      "has_synced": true,
+      "path": "select/14_Mirror,_Mirror_Hector_Vae_feat._Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mirror, Mirror",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/15_Mirror,_Mirror_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Into The Mirror",
+      "artist": "Minus the Bear",
+      "has_synced": true,
+      "path": "select/16_Into_The_Mirror_Minus_the_Bear.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Man In The Mirror",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/17_Man_In_The_Mirror_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Man in the Mirror",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/18_Man_in_the_Mirror_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MIRROR",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_MIRROR_Ado.txt"
+    }
+  ]
+}
